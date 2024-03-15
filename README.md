@@ -24,3 +24,8 @@ Running the Development Server
 To start a development server and view your application in a browser during development, use the following command:
 
 4 - npm run serve
+
+
+
+
+Note: Please ensure that your project title does not contain any symbols or numbers. For example, "project-vueJs-main2" will not work, but "project-vueJs-main" will function properly.
